@@ -1,0 +1,448 @@
+[
+  {
+    "objectID": "black_cropped_trousers_001",
+    "name": "Black Cropped Trousers",
+    "fit_category": "conditional_success",
+    "category": "Clothing",
+    "sub_category": "Pants",
+    "size": 12,
+    "brand": "Unknown",
+    "measurements": {
+      "waist_flat_width": 15.5,
+      "rise_front": 19,
+      "inseam_length": 20,
+      "outseam_length": 35.5,
+      "leg_opening_width": 6
+    },
+    "color_analysis": {
+      "color_name": "True Black",
+      "hex_code": "#000000",
+      "season": "Winter",
+      "reason": "Deep, cool, high contrast neutral."
+    },
+    "image_url_flat": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/black_cropped_trousers_001.JPG",
+    "styling_rules": {
+      "shoe_pairing_notes": "Best worn with flats or heels",
+      "best_paired_with": ["white_raw_hem_jeans_012", "lavender_crinkle_shirt_008"],
+      "forbidden_items": ["Keds", "White Sneakers"],
+      "style_note": "Do not wear with sneakers! The cropped length makes legs look short unless worn with a low-vamp shoe like flats or heels."
+    },
+    "outfit_gallery": [
+      {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/black_cropped_trousers_001_black_gold_floral_top_003_black_flats.jpg",
+        "description": "Evening: Worn with Black & Gold Floral Top + Flats",
+        "status": "Success"
+      },
+      {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/black_cropped_trousers_001_lavender_crinkle_shirt_008_black_flats.jpg",
+        "description": "Office: Worn with Buttoned Lavender Shirt + Flats",
+        "status": "Success"
+      }
+  ]
+  },
+  {
+    "objectID": "periwinkle_pocket_tee_002",
+    "name": "Periwinkle V-Neck Pocket Tee",
+    "fit_category": "Success",
+    "category": "Clothing",
+    "sub_category": "T-Shirt",
+    "size": 12,
+    "brand": "American Eagle",
+    "measurements": {
+      "garment_length": 23.5,
+      "sleeve_length": 6.5,
+      "sleeve_opening": 6.5,
+      "neck_width": 5.5,
+      "neck_drop": 4.5,
+      "shoulder_seam": 3.5
+    },
+    "color_analysis": {
+      "color_name": "Periwinkle Blue",
+      "hex_code": "#CCCCFF",
+      "season": "Summer",
+      "reason": "Cool, soft, muted pastel."
+    },
+    "image_url_flat": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/periwinkle_pocket_tee_002.JPG",
+    "styling_rules": {
+      "style_note": "Vibe Casual, summar vacation",
+      "best_paired_with": ["white_raw_hem_jeans_012", "lavender_crinkle_shirt_008"],
+      "shoe_pairing_notes": "Great with flats or sligback sandals.",
+      "forbidden_items": [],
+    },
+    "outfit_gallery": [
+      {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/white_raw_hem_jeans_012_periwinkle_pocket_tee_002_lavender_crinkle_shirt_008_light_slingbacks.jpg",
+        "description": "Edgy: Worn with Sequin Detail Jeans + Converse",
+        "status": "Success"
+      },
+      {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/white_raw_hem_jeans_012_periwinkle_pocket_tee_002_light_slingbacks.jpg",
+        "description": "Edgy: Worn with Sequin Detail Jeans + Converse",
+        "status": "Success"
+      }
+    ]
+  },
+  {
+    "objectID": "black_gold_floral_top_003",
+    "name": "Black & Gold Floral Long Sleeve",
+    "fit_category": "Failure",
+    "category": "Clothing",
+    "sub_category": "Blouse",
+    "size": 12,
+    "brand": "Chico's",
+    "measurements": {
+      "garment_length": 23.5,
+      "sleeve_length": 16,
+      "sleeve_opening": 5,
+      "shoulder_width": 4,
+      "neck_width": 9,
+      "armhole_depth": 9
+    },
+    "color_analysis": {
+      "color_name": "Black & Gold",
+      "hex_code": "#FFD700",
+      "season": "Deep Autumn",
+      "reason": "High contrast warm metallic on dark background."
+    },
+    "image_url_flat": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/black_gold_floral_top_003.JPG",
+     "styling_rules": {
+      "style_note": "Gaudy, excessive gold embelishments, too over-adorned",
+      "best_paired_with": [],
+      "shoe_pairing_notes": "",
+      "forbidden_items": [],
+    },
+    "outfit_gallery": [
+      {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/black_cropped_trousers_001_black_gold_floral_top_003_black_flats.jpg",
+        "description": "Over-embelished",
+        "status": "Failure"
+      }
+    ]
+  },
+  {
+    "objectID": "grey_henley_long_sleeve_005",
+    "name": "Grey Henley Long Sleeve",
+    "fit_category": "Fail",
+    "category": "Clothing",
+    "sub_category": "Top",
+    "size": 12,
+    "brand": "Unknown",
+    "measurements": {
+      "chest_width_flat": 17,
+      "hem_width": 16,
+      "sleeve_length": 13.5,
+      "sleeve_width_top": 8.5,
+      "neck_width": 8,
+      "shoulder_width": 4
+    },
+    "color_analysis": {
+      "color_name": "Grey",
+      "hex_code": "#696969",
+      "season": "Autumn",
+      "reason": "Muted, earthy grey."
+    },
+    "image_url_flat": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/grey_henley_long_sleeve_005.JPG",
+    "styling_rules": {
+      "style_note": "Vibe Grunge / Edgy",
+      "best_paired_with": ["sequin_detail_jeans_007"],
+      "shoe_pairing_notes": "Great with Converse or Flats."
+    },
+    "outfit_gallery": [
+      {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/grey_henley_long_sleeve_05_sequin_details_jeans_007_keds.jpg",
+        "description": "Edgy: Worn with Sequin Detail Jeans + Converse",
+        "status": "Success"
+      },
+      {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/grey_henley_long_sleeve_05_sequin_details_jeans_007_keds.jpg",
+        "description": "Edgy: Worn with Sequin Detail Jeans + flats",
+        "status": "Success"
+      }
+    ]
+  },
+  {
+    "objectID": "black_sparkle_tank_006",
+    "name": "Black Glitter Scoop Tank",
+    "fit_category": "conditional success",
+    "category": "Clothing",
+    "sub_category": "Tank Top",
+    "size": 12,
+    "brand": "Unknown",
+    "measurements": {
+      "center_front_length": 14,
+      "side_seam_length": 12,
+      "strap_drop_length": 10,
+      "armhole_opening": 7.5,
+      "total_length_strap_to_hem": 19.5
+    },
+    "color_analysis": {
+      "color_name": "Black Sparkle",
+      "hex_code": "#2E2E2E",
+      "season": "Winter",
+      "reason": "Dark with cool, icy shimmer."
+    },
+    "image_url_flat": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/black_sparkle_tank_006.JPG",
+    "styling_rules": {
+      "style_note": "Vibe Classical, does not look good by itself but is good with the matching cardigan",
+      "best_paired_with": ["sequin_detail_jeans_007", "black_velvet_cardigan_009", "white_raw_hem_jeans_012"],
+      "shoe_pairing_notes": "Great with high heels or black flats."
+    },
+    "outfit_gallery": [
+      {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/white_raw_hem_jeans_012_black_sparkle_tank_006_black_velvet_cardigan_009_black_heels.jpg",
+        "description": "Edgy: Worn with White Jeans and black cardigan",
+        "status": "Success"
+      }
+    ]
+  },
+  {
+    "objectID": "sequin_detail_jeans_007",
+    "name": "Dark Wash Sequin Detail Jeans",
+    "fit_category": "success",
+    "category": "Clothing",
+    "sub_category": "Jeans",
+    "size": 12,
+    "brand": "Unknown",
+    "measurements": {
+      "waist_flat_width": 15,
+      "rise_length": 16,
+      "inseam_length": 22.5,
+      "outseam_length": 33,
+      "leg_opening_width": 5.5,
+      "hip_width_approx": 8
+    },
+    "color_analysis": {
+      "color_name": "Dark Indigo",
+      "hex_code": "#191970",
+      "season": "Winter",
+      "reason": "Deep, cool blue."
+    },
+    "image_url_flat": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/sequin_detail_jeans_007.JPG",
+    "styling_rules": {
+      "style_note": "Classical jeans with intersting sequin details",
+      "best_paired_with": ["grey_henley_long_sleeve_05", "lavender_crinkle_shirt_008"],
+      "shoe_pairing_notes": "Great with high heels or black flats."
+    },
+    "outfit_gallery": [
+       {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/sequin_detail_jeans_007_lavender_crinkle_shirt_008_light_slingbacks.jpg",
+        "description": "Casual",
+        "status": "Success"
+      },
+       {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/grey_henley_long_sleeve_05_sequin_details_jeans_007_keds.jpg",
+        "description": "Casual look",
+        "status": "Success"
+      }
+    ]
+  },
+  {
+    "objectID": "lavender_crinkle_shirt_008",
+    "name": "Lavender Crinkle Button Down",
+    "fit_category": "conditional success",
+    "category": "Clothing",
+    "sub_category": "Shirt",
+    "size": 12,
+    "brand": "Unknown",
+    "measurements": {
+      "chest_width_flat": 25,
+      "sleeve_length": 21,
+      "shoulder_seam_length": 9.5,
+      "neck_width": 5,
+      "cuff_opening": 5.5,
+      "side_length": 19.5
+    },
+    "color_analysis": {
+      "color_name": "Lavender",
+      "hex_code": "#E6E6FA",
+      "season": "Summer",
+      "reason": "Cool, light, dusty pastel."
+    },
+    "image_url_flat": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/lavender_crinkle_shirt_008.JPG",
+    "styling_rules": {
+      "style_note": "Summer linen crincle shirt is great during hot sommers, but classic enough for lunch or summer vacation evening outings. Great with white raw edge jeans. Does not look good with black cropped pants unless they are summer pants.",
+      "best_paired_with": ["white_raw_hem_jeans_012"],
+      "shoe_pairing_notes": "Great with high heels or black flats.",
+      "forbidden_items": ["black_cropped_trousers_001"],
+    },
+    "outfit_gallery": [
+       {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/black_cropped_trousers_001_lavender_crinkle_shirt_008_black_flats.jpg",
+        "description": "Casual",
+        "status": "Fail"
+      },
+       {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/white_raw_hem_jeans_012_periwinkle_pocket_tee_002_lavender_crinkle_shirt_008_light_slingbacks.jpg",
+        "description": "Casual look",
+        "status": "Success"
+      }
+    ]
+  },
+  {
+    "objectID": "black_velvet_cardigan_009",
+    "name": "Black Velvet Sparkle Cardigan",
+    "fit_category": "success",
+    "category": "Clothing",
+    "sub_category": "Outerwear",
+    "size": 12,
+    "brand": "Unknown",
+    "measurements": {
+      "back_width_shoulder_to_shoulder": 19.5,
+      "sleeve_length": 20.5,
+      "sleeve_opening": 4.5,
+      "lapel_drop": 8,
+      "neck_width": 9
+    },
+    "color_analysis": {
+      "color_name": "Black Velvet",
+      "hex_code": "#050505",
+      "season": "Winter",
+      "reason": "Deep black with texture/sheen."
+    },
+    "image_url_flat": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/black_velvet_cardigan_009.JPG",
+    "styling_rules": {
+      "style_note": "This black evening cardigan is varsatile, glamorous layering piece that adds subtle or drammatic shimmer to evening attire. Light material, will elevate most evening outfits",
+      "best_paired_with": ["white_raw_hem_jeans_012", "black_cropped_trousers_001"],
+      "shoe_pairing_notes": "Great with high heels or black flats.",
+      "forbidden_items": [],
+    },
+    "outfit_gallery": [
+       {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/white_raw_hem_jeans_012_black_sparkle_tank_006_black_velvet_cardigan_009_black_heels.jpg",
+        "description": "Casual",
+        "status": "Success"
+      }
+    ]
+  },
+  {
+    "objectID": "bootcut_jeans_010",
+    "name": "Dark Wash Bootcut Jeans",
+    "fit_category": "success",
+    "category": "Clothing",
+    "sub_category": "Jeans",
+    "size": 12,
+    "brand": "Unknown",
+    "measurements": {
+      "waist_flat_width": 16,
+      "rise_front": 7.5,
+      "thigh_width": 9,
+      "knee_width": 8,
+      "leg_opening_width": 10,
+      "outseam_length": 31
+    },
+    "color_analysis": {
+      "color_name": "Navy Blue",
+      "hex_code": "#000080",
+      "season": "Winter",
+      "reason": "Classic dark cool denim."
+    },
+    "image_url_flat": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/bootcut_jeans_010.JPG",
+    "styling_rules": {
+      "style_note": "These dark blue bootcut jeans are a timeless style that's fitted throught the thigh and subtly flares from the knee down, designed to accomodate boots, creating a balanced, leg-lengthening silhouette that's both slimming and varsatile for casual or dressier looks.",
+      "best_paired_with": ["cream_vneck_sweater_011"],
+      "shoe_pairing_notes": "Great with high heels, boots, or sneakers",
+      "forbidden_items": [],
+    },
+    "outfit_gallery": [
+       {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/bootcut_jeans_010_cream_vneck_sweater_011_black_heels.jpg",
+        "description": "A classy look",
+        "status": "Success"
+      },
+       {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/bootcut_jeans_010_cream_vneck_sweater_011_sneakers.jpg",
+        "description": "Casual classy look",
+        "status": "Success"
+      }
+    ]
+  },
+  {
+    "objectID": "cream_vneck_sweater_011",
+    "name": "Cream V-Neck Knit Sweater",
+    "fit_category": "success",
+    "category": "Clothing",
+    "sub_category": "Sweater",
+    "size": 12,
+    "brand": "Unknown",
+    "measurements": {
+      "neck_width": 7,
+      "neck_drop": 6.5,
+      "shoulder_width_half": 11.5,
+      "sleeve_width_top": 8.5,
+      "sleeve_length": 15,
+      "garment_length_center": 23.5
+    },
+    "color_analysis": {
+      "color_name": "Cream",
+      "hex_code": "#FFFDD0",
+      "season": "Autumn",
+      "reason": "Warm, soft, earthy neutral."
+    },
+    "image_url_flat": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/cream_vneck_sweater_011.JPG",
+    "styling_rules": {
+      "style_note": "Versatality high",
+      "shoe_pairing_notes": "Works with both Sneakers (Casual) and Heels (Elevated).",
+      "best_paired_with": ["Dark Wash Bootcut Jeans"]
+    },
+    "outfit_gallery": [
+      {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/bootcut_jeans_010_cream_vneck_sweater_011_sneakers.jpg",
+        "description": "Errands Look: Worn with Bootcut Jeans + Grey Sneakers",
+        "status": "Success"
+      },
+      {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/bootcut_jeans_010_cream_vneck_sweater_011_black_heels.jpg",
+        "description": "Lunch Look: Worn with Bootcut Jeans + Black Heels",
+        "status": "Success"
+      }
+  ]    
+  },
+  {
+    "objectID": "white_raw_hem_jeans_012",
+    "name": "White Raw Hem Jeans",
+    "fit_category": "conditional success",
+    "category": "Clothing",
+    "sub_category": "Jeans",
+    "size": 12,
+    "brand": "Unknown",
+    "measurements": {
+      "waist_flat_width": 18.5,
+      "rise_front": 11,
+      "outseam_length": 31
+    },
+    "color_analysis": {
+      "color_name": "White",
+      "hex_code": "#FFFFFF",
+      "season": "Winter",
+      "reason": "Bright, high-contrast neutral."
+    },
+    "image_url_flat": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/white_raw_hem_jeans_012.JPG",
+    "styling_rules": {
+        "required_shoe_type": ["heels", "pointed toe flats"],
+        "style_note": "versatile. works with the black tank and black jacket for evening or blue tee and lavender crinkle shirt for day.",
+        "shoe_pairing_notes": "Works with both Sneakers (Casual) and Heels (Elevated).",
+        "best_paired_with": [ {"lavender_crinkle_shirt_008", "periwinkle_pocket_tee_002"}, {"black_sparkle_tank_006", "black_velvet_cardigan_009"}]
+    },
+    "outfit_gallery": [
+      {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/white_raw_hem_jeans_012_black_sparkle_tank_006_black_heels.jpg",
+        "description": "Evening Look: Worn with Black Sparkle Tank and Black Heels",
+        "status": "Success"
+      },
+        {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/white_raw_hem_jeans_012_periwinkle_pocket_tee_002_lavender_crinkle_shirt_008_light_slingbacks.jpg",
+        "description": "Day look: Worn with periwinkle pocket tee, lavender crinkle shirt, and light colored slingbacks",
+        "status": "Success"
+      },
+      {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/white_raw_hem_jeans_012_black_sparkle_tank_006_black_velvet_cardigan_009_black_heels.jpg",
+        "description": "Evening Look: Worn with Black Sparkle Tank with Velvet Jacket and black heels",
+        "status": "Success"
+      },
+      {
+        "image_url": "https://raw.githubusercontent.com/jboroda/Algolia_Project/213335c684d942dc60bd4915e50ca9fa40179a19/photos_selfies_measurements/white_raw_hem_jeans_012_periwinkle_pocket_tee_002_light_slingbacks.jpg"],
+        "description": "Casual Look: Worn with periwinkle pocket tee and beige slingbacks",
+        "status": "Success"
+      }
+  ]
+}
